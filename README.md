@@ -272,3 +272,84 @@ The findings indicate that repayment behaviour, delayed payments, credit utiliza
 ## 👩‍💻 Author
 
 **Rebekah Dhone**
+---
+
+# 📊 Visualizations
+
+Below are the key visualizations generated during the exploratory data analysis (EDA), highlighting customer demographics, financial behavior, and factors influencing credit risk.
+
+## 1. Customer Distribution by Occupation
+
+![Customer Distribution by Occupation](images/customer_distribution_by_occupation.png)
+
+---
+
+## 2. Customer Age Distribution
+
+![Customer Age Distribution](images/customer_age_distribution.png)
+
+---
+
+## 3. Annual Income Distribution Across Occupations
+
+![Annual Income Distribution Across Occupations](images/annual_income_distribution_by_occupation.png)
+
+---
+
+## 4. Customer Annual Income Distribution
+
+![Customer Annual Income Distribution](images/customer_annual_income_distribution.png)
+
+---
+
+## 5. Monthly In-Hand Salary by Credit Score Category
+
+![Monthly In-Hand Salary by Credit Score Category](images/monthly_in_hand_salary_by_credit_score.png)
+
+---
+
+## 6. Annual Income Distribution by Credit Score Category
+
+![Annual Income Distribution by Credit Score Category](images/annual_income_distribution_by_credit_score.png)
+
+---
+
+## 7. Average Number of Loans by Credit Score Category
+
+![Average Number of Loans by Credit Score Category](images/average_loans_by_credit_score.png)
+
+---
+
+## 8. Outstanding Debt vs Annual Income by Credit Score
+
+![Outstanding Debt vs Annual Income by Credit Score](images/outstanding_debt_vs_annual_income_by_credit_score.png)
+
+---
+
+## 9. Number of Delayed Payments by Credit Score Category
+
+![Number of Delayed Payments by Credit Score Category](images/delayed_payments_by_credit_score.png)
+
+---
+
+## 10. Distribution of Payment Delays
+
+![Distribution of Payment Delays](images/payment_delay_distribution.png)
+
+---
+
+## 11. Correlation Heatmap of Financial Features
+
+![Correlation Heatmap of Financial Features](images/financial_features_correlation_heatmap.png)
+
+---
+
+## 12. Minimum Payment Status by Credit Score Category
+
+![Minimum Payment Status by Credit Score Category](images/minimum_payment_status_by_credit_score.png)
+
+---
+
+## 13. Customer Distribution by Credit Score Category
+
+![Customer Distribution by Credit Score Category](images/customer_distribution_by_credit_score_category.png)
