@@ -272,7 +272,3 @@ The findings indicate that repayment behaviour, delayed payments, credit utiliza
 ## 👩‍💻 Author
 
 **Rebekah Dhone**
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
