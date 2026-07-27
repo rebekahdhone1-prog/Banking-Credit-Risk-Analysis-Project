@@ -1,5 +1,3 @@
-# Banking-Credit-Risk-Analysis-Project
-
 # 🏦 Banking Credit Risk Analysis using Python
 
 ## 📌 Overview
@@ -240,14 +238,14 @@ Banking-Credit-Risk-Analysis/
 │
 ├── Banking_Credit_Risk_Analysis.ipynb
 ├── README.md
-├── dataset.csv
 ├── requirements.txt
 └── images/
-    ├── credit_score_distribution.png
-    ├── correlation_heatmap.png
-    ├── income_distribution.png
+    ├── customer_distribution_by_occupation.png
+    ├── customer_age_distribution.png
+    ├── annual_income_distribution_by_occupation.png
+    ├── customer_annual_income_distribution.png
+    ├── monthly_in_hand_salary_by_credit_score.png
     └── ...
-```
 
 ---
 
@@ -268,11 +266,11 @@ This project demonstrates an end-to-end data analytics workflow for banking cred
 The findings indicate that repayment behaviour, delayed payments, credit utilization, outstanding debt, and EMI burden are stronger indicators of customer creditworthiness than income alone. The validated risk scoring framework provides an explainable and practical approach for identifying high-risk customers, enabling financial institutions to make more informed lending decisions and strengthen risk management strategies.
 
 ---
-
 ## 👩‍💻 Author
 
 **Rebekah Dhone**
----
+
+- GitHub: https://github.com/rebekahdhone1-prog
 
 # 📊 Visualizations
 
