@@ -1,10 +1,28 @@
 # 🏦 Banking Credit Risk Analysis using Python
+## 📊 Project Snapshot
 
+**Domain:** Banking Analytics
+
+**Objective:** Assess customer credit risk using customer financial behavior.
+
+**Tools:** Python • Pandas • NumPy • Matplotlib • Seaborn • SciPy
+
+**Techniques:** Data Cleaning • Feature Engineering • EDA • Statistical Testing • Rule-Based Risk Scoring
+
+**Outcome:** Built an explainable credit risk scoring system and generated business recommendations for lending decisions.
 ## 📌 Overview
 
 Credit risk assessment is a critical process for financial institutions to minimize loan defaults and make informed lending decisions. This project analyzes customer banking and financial data using Python to identify key factors influencing creditworthiness through data cleaning, feature engineering, exploratory data analysis (EDA), statistical hypothesis testing, and a rule-based credit risk scoring system.
 
 The project combines data analytics and statistical techniques to generate actionable business insights that can support data-driven lending strategies and customer risk assessment.
+## 📈 Key Highlights
+
+- ✔ 27 financial variables analyzed
+- ✔ 15+ visualizations created
+- ✔ 3 engineered financial features
+- ✔ Statistical hypothesis testing performed
+- ✔ Explainable rule-based credit risk model developed
+
 
 ---
 
@@ -216,6 +234,15 @@ Based on the analytical findings, the following recommendations can improve lend
 - Use the rule-based risk score as an initial screening mechanism before loan approval.
 - Continuously monitor debt-to-income ratio and EMI burden for existing customers.
 - Offer premium financial products to customers classified as Low Risk.
+
+## 💼 Business Impact
+
+This project demonstrates how data analytics can support better lending decisions by:
+
+- Identifying high-risk customers early
+- Supporting explainable credit risk assessment
+- Reducing potential loan defaults
+- Helping financial institutions improve customer screening
 
 ---
 
