@@ -18,7 +18,7 @@ The project combines data analytics and statistical techniques to generate actio
 ## 📈 Key Highlights
 
 - ✔ 27 financial variables analyzed
-- ✔ 15+ visualizations created
+- ✔ 10+ visualizations created
 - ✔ 3 engineered financial features
 - ✔ Statistical hypothesis testing performed
 - ✔ Explainable rule-based credit risk model developed
